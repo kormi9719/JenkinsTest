@@ -3,7 +3,7 @@
 
 apply plugin: 'java'
 
-version = '1.23'
+version = '1.26'
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
